@@ -7,6 +7,7 @@ Para cada pregunta se debe presentar el diseño UML y el código fuente en githu
 
 # Pregunta 2 (3 puntos)
 - Indicar los patrones actualmente implementados.
+	Factory Method
 - Soportar la red social Pinterest.
 - Aplicar el patrón Adapter de clase y objeto.
 

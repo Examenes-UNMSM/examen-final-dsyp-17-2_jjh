@@ -15,5 +15,11 @@ public enum SharerType {
         public String toString() {
             return "Reddit";
         }
-    }
+    },
+    
+    Pinterest {
+        public String toString() {
+            return "Pinterest";
+        }
+    }    
 }

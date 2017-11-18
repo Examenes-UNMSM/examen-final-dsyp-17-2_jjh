@@ -8,6 +8,7 @@ public enum SharerFactory {
         switch (sharerType) {
             case Facebook: sharing = new FacebookSharer(); break;
             case Twitter: sharing = new TwitterSharer(); break;
+            case Pinterest: sharing = new PinterestSharer(); break;
             default : break;
         }
         return sharing;

@@ -1,6 +1,6 @@
 package pregunta1;
 
-public class Computer {
+public class Computer implements CumputerI{
     private Finish finish;
     private Storage storage;
     private Processor processor;
@@ -23,4 +23,6 @@ public class Computer {
     {
         return String.format("Your configuration => \n%s \n%s \n%s \n%s \nTotal: $%.2f", this.finish.toString(), this.storage.toString(), this.processor.toString(), this.memory.toString(), this.getTotalPrice());
     }
+
+
 }
