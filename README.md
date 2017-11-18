@@ -11,6 +11,7 @@ Para cada pregunta se debe presentar el diseño UML y el código fuente en githu
 - Soportar la red social Pinterest.
     OK
 - Aplicar el patrón Adapter de clase y objeto.
+	OK
 
 
 # Pregunta 3 (3 puntos)
